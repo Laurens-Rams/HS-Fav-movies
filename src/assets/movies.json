@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dune2021",
+    "title": "Dune",
+    "score": "82",
+    "picture": "src/assets/dune.png"
+  },
+  {
+    "id": "avatar2",
+    "title": "Avatar 2",
+    "score": "98",
+    "picture": "src/assets/avatar-2.png"
+  },
+  {
+    "id": "topgun2022",
+    "title": "Top Gun: Maverick",
+    "score": "75",
+    "picture": "src/assets/top-gun.png"
+  },
+  {
+    "id": "nope2022",
+    "title": "Nope",
+    "score": "50",
+    "picture": "src/assets/nope.png"
+  },
+  {
+    "id": "bullet2022",
+    "title": "Bullet Train",
+    "score": "90",
+    "picture": "src/assets/bullet-train.png"
+  }
+]
